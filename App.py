@@ -26,7 +26,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-ENGINE_FILE = "indigo_v2_engine_streamlit_complete.pkl"
+ENGINE_FILE = "indigo_v2_engine_streamlit_universal.pkl"
 
 DEFAULT_WEIGHTS = {
     "MSFT": 0.20, "AAPL": 0.15, "NVDA": 0.15, "AMZN": 0.10,
